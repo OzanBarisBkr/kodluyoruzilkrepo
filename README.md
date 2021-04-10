@@ -6,7 +6,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 git clone uzerinden yukleme islemi tamamlandı https://github.com/OzanBarisBkr/kodluyoruzilkrepo.git
 ## projeye ait resimler
 ---
-![](https://ibb.co/Vj2Cng6)
+![](https://user-images.githubusercontent.com/75985933/114272993-08f7fc00-9a21-11eb-813c-23f2381b84c5.jpg)
 
-![ciktisi](https://www.hizliresim.com/p3s6ZI)
+![proje-ciktisi](https://user-images.githubusercontent.com/75985933/114273054-48bee380-9a21-11eb-9dad-5e05e33f11f0.png)
 
